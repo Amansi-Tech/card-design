@@ -83,7 +83,7 @@ input{
     margin-top: 20px;
 }
 .butt button{
-    width: 120px;
+    width: 100px;
     height: 40px;
     background: aqua;
     border: none;
@@ -93,7 +93,7 @@ input{
 .ton button{
     border: 2px solid black;
     background: rgba(222, 184, 135, 0.849);
-    width: 120px;
+    width: 100px;
     height: 40px;
     color: black;
     border: none;
